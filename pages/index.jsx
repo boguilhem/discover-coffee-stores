@@ -9,6 +9,7 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
+      {console.log('teste')}
       <Head>
         <title>Coffee Connoisseur</title>
         <meta name="description" content="Discover your local coffee shops" />
